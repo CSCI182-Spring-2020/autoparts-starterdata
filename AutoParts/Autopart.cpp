@@ -5,6 +5,7 @@
 
 using namespace std;
 
+
 AutoPart::AutoPart(int partNo, string partDescription, int partMaker) : BasePart(partNo)
 {
 	_PartDescription = partDescription;
